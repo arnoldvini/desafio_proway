@@ -1,0 +1,14 @@
+## desafio_proway
+#### Pre requisitos para rodar o código:
+  + IDE utilizada: NetBeans IDE 8.2;
+  + linguagem: JAVA;
+  + windows 10 x64bit;
+  + versão java: jdk1.8.0_111
+  
+#### Dentro do código:
+  + O nome do pacote esta como Default;
+  + Para estar fazendo a execução é preciso iniciar o run(shift + F6) dentro da classe jogoPrincipal;
+  + Na classe Sistema estão todos os métodos e variáveis do código;
+  + Na classe teste estão os testes unitários realizados;
+  
+  
