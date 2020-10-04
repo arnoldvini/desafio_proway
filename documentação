@@ -5,8 +5,14 @@
   + windows 10 x64bit;
   + versão java: jdk1.8.0_111
   
+#### Montagem no NetBeans:
+  + criar um pacote contendo duas classes sendo uma delas principal;
+  + Dentro da classe principal copiar o código que esta na pasta src chamado jogoPrincipal;
+  + Dentro da outra classe copiar o código que esta na pasta src chamado Sistema;
+  + Para ver os testes unitários basta criar uma unidade de testes JUnit e copiar o código que esta na pasta teste unitários;
+  
 #### Dentro do código:
-  + O nome do pacote esta como Default;
+  
   + Para estar fazendo a execução é preciso iniciar o run(shift + F6) dentro da classe jogoPrincipal;
   + Na classe Sistema estão todos os métodos e variáveis do código;
   + Na classe teste estão os testes unitários realizados;
